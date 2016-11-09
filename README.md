@@ -1,0 +1,2 @@
+# Clarity
+TimeSheet Application
